@@ -1,0 +1,12 @@
+H:\Ha-Mim\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+H:\Ha-Mim\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+H:\Ha-Mim\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MenuUI.resources
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntity.resources
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.ViewUI.resources
+H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.EditUI.resources
