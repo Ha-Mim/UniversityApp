@@ -26,7 +26,7 @@ namespace UniversityApp
             string email = emailTextBox.Text;
             string phone = phoneTextBox.Text;
 
-            string connectionString = @"Data Source= (LOCAL)\SQLEXPRESS; Database = University DB; Integrated Security = true";
+            string connectionString = @"Data Source= (LOCAL)\SQLEXPRESS; Database = UniversityAPP; Integrated Security = true";
             SqlConnection connection = new SqlConnection(connectionString);
             connection.Open();
             string query = "INSERT INTO T_STUDENT VALUES('" +name+ "','" +address+ "','" +phone+ "','" +email+"')";

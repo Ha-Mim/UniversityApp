@@ -10,3 +10,15 @@ H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MenuUI.resources
 H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntity.resources
 H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.ViewUI.resources
 H:\Ha-Mim\UniversityApp\UniversityApp\obj\Debug\UniversityApp.EditUI.resources
+D:\asp.net\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+D:\asp.net\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+D:\asp.net\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.EditUI.resources
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MenuUI.resources
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntity.resources
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.ViewUI.resources
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+D:\asp.net\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb

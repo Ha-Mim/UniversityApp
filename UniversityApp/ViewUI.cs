@@ -22,8 +22,13 @@ namespace UniversityApp
 
         private void searchButton_Click(object sender, EventArgs e)
         {
+            ReadData();
+        }
+
+        private void ReadData()
+        {
             string inputId = idTextBox.Text;
-            string connectionString = @"Data Source= (LOCAL)\SQLEXPRESS; Database = University DB; Integrated Security = true";
+            string connectionString = @"Data Source= (LOCAL)\SQLEXPRESS; Database = UniversityAPP; Integrated Security = true";
             SqlConnection connection = new SqlConnection(connectionString);
             connection.Open();
             string query = "SELECT* FROM T_STUDENT";
@@ -65,9 +70,8 @@ namespace UniversityApp
 
             
             connection.Close();
+         
         }
-
-     
 
         private void resultlistView_DoubleClick(object sender, EventArgs e)
         {
@@ -84,7 +88,7 @@ namespace UniversityApp
 
         private void updateButton_Click(object sender, EventArgs e)
         {
-            string connectionString = @"Data Source= (LOCAL)\SQLEXPRESS; Database = University DB; Integrated Security = true";
+            string connectionString = @"Data Source= (LOCAL)\SQLEXPRESS; Database = UniversityAPP; Integrated Security = true";
             SqlConnection connection = new SqlConnection(connectionString);
             connection.Open();
            // string query = "UPDATE T_Student SET Name = '" + nameTextBox.Text + "',Address = '" + addressTextBox.Text +
@@ -97,6 +101,8 @@ namespace UniversityApp
             if (rowAffected == 1)
             {
                 MessageBox.Show("Succesfully Updated");
+                ReadData();
+               
             }
             else
             {
